@@ -4,8 +4,8 @@ function initialize() {
 var mapProp = {
 center:myCenter,
 zoom:15,
-scrollwheel:true,
-draggable:true,
+scrollwheel:false,
+draggable:false,
 mapTypeId:google.maps.MapTypeId.ROADMAP
 };
 
